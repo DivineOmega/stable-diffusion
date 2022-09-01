@@ -1,2 +1,3 @@
 .idea
 models/ldm/stable-diffusion-v1/*.ckpt
+outputs
