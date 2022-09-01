@@ -4,3 +4,4 @@ outputs
 **/__pycache__/
 logs
 src
+**.egg-info
