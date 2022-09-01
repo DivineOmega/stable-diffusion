@@ -2,3 +2,4 @@
 models/ldm/stable-diffusion-v1/*.ckpt
 outputs
 **/__pycache__/
+logs
