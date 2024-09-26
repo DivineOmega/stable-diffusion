@@ -1,0 +1,8 @@
+.idea
+models/ldm/stable-diffusion-v1/*.ckpt
+inputs
+outputs
+**/__pycache__/
+logs
+src
+**.egg-info
